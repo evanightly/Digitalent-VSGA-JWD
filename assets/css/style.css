@@ -1,0 +1,7 @@
+.container .table th:first-child {
+  border-top-left-radius: 10px;
+}
+
+.container .table th:last-child {
+  border-top-right-radius: 10px;
+}
